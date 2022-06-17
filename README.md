@@ -73,7 +73,7 @@ $ python3 main.py
 
 As seguintes ferramentas foram usadas na construção da IA do projeto:
 
-#### **Inteligência Artificial**  ([JavaScript](https://www.javascript.com/))
+#### **Inteligência Artificial** 
 
 -   **[Python](https://www.python.org/)**
 -   **[Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)**
