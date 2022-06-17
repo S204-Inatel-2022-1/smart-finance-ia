@@ -9,7 +9,7 @@
 
 <p align="center">
 	<img src = "https://img.shields.io/badge/Desenvolvido-JavaScript-blue">
-	<img src="https://img.shields.io/badge/Status-Em%20andamento-yellow"/>
+	<img src="https://img.shields.io/badge/Status-concluido-yellow"/>
 	 <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
   </a>
     
@@ -29,7 +29,7 @@
 </p>
 </section>
 <h4 align="center"> 
-	🚧  Projeto 🚀 Em construção...  🚧
+	:white_check_mark: Projeto finalizado :white_check_mark:
 </h4>
 
 ## 💻 Recursos
