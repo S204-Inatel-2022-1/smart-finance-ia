@@ -45,74 +45,43 @@
 
 ### Pré-requisitos
 
-Primeiro é necessário criar um virtualenv
-```
+Primeiro é necessário criar um virtualenv:
+```bash
 python3 -m venv path/to/new/venv 
 ```
-
-#### 🎲 Rodando o Backend (servidor)
-
+Após isso ative o virtualenv:
 ```bash
-
-# Clone este repositório
-$ git clone https://github.com/S204-Inatel-2022-1/smart-finance.git
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd smart-finance
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run start
-
+source path/to/new/venv/bin/activate  
+```
+Agora instale os requirements:
+```bash
+pip3 install -r requirements.txt 
 ```
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Fazendo previsões com a IA treinada
 
 ```bash
-
-# Clone este repositório
-$ git clone https://github.com/S204-Inatel-2022-1/smart-finance-front.git
-
 # Acesse a pasta do projeto no terminal/cmd
-$ cd smart-finance
+$ cd smart-finance-ia/Modelo Treinado
 
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ node index.js
-
-# Acesse a URL no seu navegador
-http://localhost:5000/
-
+# Execute o arquivo main
+$ python3 main.py
 ``` 
 ---
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construção da IA do projeto:
 
-#### **Website**  ([JavaScript](https://www.javascript.com/))
+#### **Inteligência Artificial**  ([JavaScript](https://www.javascript.com/))
 
--   **[HTML](https://html.com/)**
--   **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 -   **[Python](https://www.python.org/)**
-
-> Veja o arquivo  [Clicar](https://github.com/S204-Inatel-2022-1/smart-finance-front.git)
-
-#### **Server**  ([NodeJS](https://nodejs.org/en/))
-
--   **[Node](https://nodejs.org/en/)**
--   **[MongoDB](https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_americas_brazil_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624308&adgroup=115749706023&gclid=CjwKCAjwgr6TBhAGEiwA3aVuITkbPlEXyKaZh-cJocBXWMQ5MrAV7vsNanm7VcZPkz1noYPsdzNLbhoCd_AQAvD_BwE)**
-
-> Veja o arquivo  [Clicar](https://github.com/S204-Inatel-2022-1/smart-finance.git)
+-   **[Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)**
+> Veja o arquivo  [Clicar](https://github.com/S204-Inatel-2022-1/smart-finance-ia)
 
 **Utilitários**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
--   Teste de API:  **[Cypress, Pytest]()**
 -   Ícones:  **[Feather Icons](https://feathericons.com/)**,  **[Font Awesome](https://fontawesome.com/)**
 
 ---
