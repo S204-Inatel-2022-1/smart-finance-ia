@@ -8,8 +8,8 @@
 </section>
 
 <p align="center">
-	<img src = "https://img.shields.io/badge/Desenvolvido-JavaScript-blue">
-	<img src = "https://img.shields.io/badge/Status-Concluido-green" />
+	<img src = "https://img.shields.io/badge/Desenvolvido-Python-blue" />
+	<img src = "https://img.shields.io/badge/Status-Concluido-green" >
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
