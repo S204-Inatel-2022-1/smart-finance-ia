@@ -34,6 +34,7 @@
 
 ## 💻 Recursos
 
+- [x] Algoritmo de treino da Inteligência Artificial
 - [x] Inteligência Artificial Treinada
 
 ## 🎨 Demonstração
@@ -41,12 +42,6 @@
 
 
 ## 🚀 Como executar o projeto
-
-Este projeto é divido em três partes:
-1. Backend (pasta server) 
-2. Frontend (pasta web)
-
-💡O Frontend precisam que o Backend esteja sendo executado para funcionar.
 
 ### Pré-requisitos
 
