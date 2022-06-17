@@ -34,13 +34,7 @@
 
 ## 💻 Recursos
 
-- [x] Langing Page
-- [x] Cadastro de cliente
-- [x] Cadastro de produtos
-- [x] Dashboard
-- [x] Tela de Consultoria
-- [x] API para operar o BD
-- [x] API para comunicar com a IA
+- [x] Inteligência Artificial Treinada
 
 ## 🎨 Demonstração
 * Demonstração de aplicação: [https://smart-finance-front.herokuapp.com/](https://smart-finance-front.herokuapp.com/)
