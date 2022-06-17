@@ -9,12 +9,15 @@
 
 <p align="center">
 	<img src = "https://img.shields.io/badge/Desenvolvido-JavaScript-blue">
-	<img src="https://img.shields.io/badge/Status-concluido-yellow"/>
-	 <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-  </a>
-    
+	<img src = "https://img.shields.io/badge/Status-Concluido-green" />
+
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>	
+
 <section class="tabela-de-conteudo" id="tabela-de-conteudo">
 <h4 align="center"> 
 	Tabela de conteúdos
